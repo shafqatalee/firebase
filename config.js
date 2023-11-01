@@ -2,14 +2,14 @@ import { initializeApp } from "https://www.gstatic.com/firebasejs/9.10.0/firebas
 import { getAuth } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-auth.js";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAjIc8xWUF0qB6wZHb_lp8pAGMSagTuuBo",
-    authDomain: "smit-10-a.firebaseapp.com",
-    projectId: "smit-10-a",
-    storageBucket: "smit-10-a.appspot.com",
-    messagingSenderId: "255751253034",
-    appId: "1:255751253034:web:23c716023045d12cc82753",
-    measurementId: "G-1KMZ9E2J63"
-};
+    apiKey: "AIzaSyBwjaJFTyPA23AJaD_21nyoVjd9NFOzgP4",
+    authDomain: "smit-practiceapp.firebaseapp.com",
+    projectId: "smit-practiceapp",
+    storageBucket: "smit-practiceapp.appspot.com",
+    messagingSenderId: "796294336033",
+    appId: "1:796294336033:web:8dac2f2fbabcc261ac1d60",
+    measurementId: "G-MDQ2WVHV7D"
+  };
 
 // Initialize Firebase
 export const app = initializeApp(firebaseConfig);
